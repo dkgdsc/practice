@@ -1,0 +1,7 @@
+data/org.gnome.Helloapp.desktop.in
+data/org.gnome.Helloapp.appdata.xml.in
+data/org.gnome.Helloapp.gschema.xml
+src/helloapp-window.ui
+src/main.c
+src/helloapp-window.c
+
